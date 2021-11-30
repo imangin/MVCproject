@@ -2,7 +2,7 @@
 
 Báo cáo thực tập web
 **************************
-Thành viên nhóm 8
+Thành viên nhóm 8:
 
 Lê Hà Duy
 
@@ -29,13 +29,13 @@ I: Cùng với nhiều lĩnh vực ngành nghề làm đẹp khác thì thời t
 ***************************
 II: Database, github
 
-!!!Link github: https://github.com/imangin/Nhom8_MVCproject
+*Link github: https://github.com/imangin/Nhom8_MVCproject
 
-!!!Link webhost(demo): https://webmvcshop.000webhostapp.com/
+*Link webhost(demo): https://webmvcshop.000webhostapp.com/
 
-!!!Đường dẫn trang quản trị viên: admin/login
+*Đường dẫn trang quản trị viên: admin/login
 
-!!!password:1234
+*password:1234
 ![image](https://user-images.githubusercontent.com/66197800/144025035-fad57644-e33c-4254-8a4a-ae594857cbc5.png)
 ***************************
 III: demo
@@ -56,4 +56,10 @@ Quản lý sản phẩm
 ![image](https://user-images.githubusercontent.com/66197800/144025505-e020efa1-3da0-45d3-8522-3a0c3ce30aa3.png)
 Quản lý slider
 ![image](https://user-images.githubusercontent.com/66197800/144025621-2e428eae-1bcd-48f9-a6e7-ab25374bc981.png)
+Quản lý đơn đặt hàng
+![image](https://user-images.githubusercontent.com/66197800/144027457-bbe49378-419e-42cd-abc3-9184728e83d2.png)
+Quản lý tài khoản nhân viên, khách hàng
+![image](https://user-images.githubusercontent.com/66197800/144027579-4cb959fa-e655-4cdf-a2bc-8331226b1f7f.png)
+![image](https://user-images.githubusercontent.com/66197800/144027623-aad82ad9-c0d0-4a3c-a5ec-f897b70e4490.png)
+
 
