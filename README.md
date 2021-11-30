@@ -21,11 +21,25 @@ I: Cùng với nhiều lĩnh vực ngành nghề làm đẹp khác thì thời t
 II: Database, github
 !!!Link github: https://github.com/imangin/Nhom8_MVCproject
 !!!Link webhost(demo): https://webmvcshop.000webhostapp.com/
+!!!trang quản trị viên: admin/login
+!!!password:1234
 ![image](https://user-images.githubusercontent.com/66197800/144025035-fad57644-e33c-4254-8a4a-ae594857cbc5.png)
 ***************************
 III: demo
+Trang chủ
+![image](https://user-images.githubusercontent.com/66197800/144025907-80b6e497-697a-4be7-80dc-6e3aed6bb617.png)
+Chi tiết sản phẩm
+![image](https://user-images.githubusercontent.com/66197800/144026058-cd2f8aa8-41e9-4e26-a8f6-1277d8c09f47.png)
+
+giỏ hàng
+![image](https://user-images.githubusercontent.com/66197800/144026131-db7038bc-0895-4e36-baf4-8b2eccecdbd8.png)
+
+Trang quản trị viên
 ![image](https://user-images.githubusercontent.com/66197800/144022409-0476d517-1a21-4496-93d5-993e99e1a748.png)
-
-
+Quản lý danh mục
 ![image](https://user-images.githubusercontent.com/66197800/144022509-4d39481e-fbcd-4d00-963f-424e953e7038.png)
+Quản lý sản phẩm
+![image](https://user-images.githubusercontent.com/66197800/144025505-e020efa1-3da0-45d3-8522-3a0c3ce30aa3.png)
+Quản lý slider
+![image](https://user-images.githubusercontent.com/66197800/144025621-2e428eae-1bcd-48f9-a6e7-ab25374bc981.png)
 
