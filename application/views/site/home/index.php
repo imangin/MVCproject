@@ -1,7 +1,7 @@
 <div class="row">
 	<div class="panel panel-info">
 	  <div class="panel-heading">
-	    <h3 class="panel-title text-center"><img src="<?php echo base_url(); ?>upload/icon/new.gif" alt=""><a href="<?php echo base_url('product/news'); ?>" class='product_title'>Sản phẩm mới </a><img src="<?php echo base_url(); ?>upload/icon/new.gif" alt=""></h3>
+	    <h3 class="panel-title text-center"><a href="<?php echo base_url('product/news'); ?>" class='product_title'>Sản phẩm mới </a></h3>
 	  </div>
 	  <div class="panel-body">
 	  	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 clearpadding">
@@ -33,7 +33,7 @@
 <div class="row">
 	<div class="panel panel-info">
 	  <div class="panel-heading">
-	    <h3 class="panel-title text-center"><img src="<?php echo base_url(); ?>upload/icon/hot.gif" alt=""><a href="<?php echo base_url('ban-chay'); ?>" class='product_title'>Sản phẩm bán chạy</a><img src="<?php echo base_url(); ?>upload/icon/hot.gif" alt=""></h3>
+	    <h3 class="panel-title text-center"><a href="<?php echo base_url('ban-chay'); ?>" class='product_title'>Sản phẩm bán chạy</a></h3>
 	  </div>
 	  <div class="panel-body">
 	  	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 clearpadding">
@@ -65,7 +65,7 @@
 <div class="row">
 	<div class="panel panel-info">
 	  <div class="panel-heading">
-	    <h3 class="panel-title text-center"><img src="<?php echo base_url(); ?>upload/icon/hot.gif" alt=""><a href="<?php echo base_url('product/views'); ?>" class='product_title'>Sản phẩm xem nhiều</a><img src="<?php echo base_url(); ?>upload/icon/hot.gif" alt=""></h3>
+	    <h3 class="panel-title text-center"><a href="<?php echo base_url('product/views'); ?>" class='product_title'>Sản phẩm xem nhiều</a></h3>
 	  </div>
 	  <div class="panel-body">
 	  	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 clearpadding">
