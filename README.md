@@ -20,7 +20,7 @@ I: Cùng với nhiều lĩnh vực ngành nghề làm đẹp khác thì thời t
 ***************************
 II: Database, github
 !!!Link github: https://github.com/imangin/Nhom8_MVCproject
-!!!Link webhost(demo): https://webmvcshop.000webhostapp.com/
+***Link webhost(demo): https://webmvcshop.000webhostapp.com/***
 !!!trang quản trị viên: admin/login
 !!!password:1234
 ![image](https://user-images.githubusercontent.com/66197800/144025035-fad57644-e33c-4254-8a4a-ae594857cbc5.png)
